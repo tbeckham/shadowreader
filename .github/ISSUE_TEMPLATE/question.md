@@ -1,6 +1,6 @@
 ---
 name: "❓ Question"
-about: "If you have a question \U0001F4AC, please post here"
+about: "If you have a question, please post here"
 
 ---
 
